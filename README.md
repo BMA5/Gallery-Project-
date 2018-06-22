@@ -1,2 +1,2 @@
 # Gallery-Project-
-Smart story gallery website 
+Smart story gallery - web based project
